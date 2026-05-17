@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class RobloxPlayer : MonoBehaviour
 {
     public float speed = 5f;
     [SerializeField] float jumpForce = 7f;
